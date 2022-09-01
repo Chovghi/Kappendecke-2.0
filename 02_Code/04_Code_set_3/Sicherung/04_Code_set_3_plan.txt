@@ -1,0 +1,3 @@
+- unterschiedliche Höhen (möglichst gering)
+- Oberflächenmuster
+- finaler Prototyp
